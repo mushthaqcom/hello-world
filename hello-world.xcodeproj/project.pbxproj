@@ -6,10 +6,17 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXFileReference section */
+		FA2218F82F748A0400E9E221 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		FA2218F92F748A0B00E9E221 /* REAMDE.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = REAMDE.md; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		FA2218F12F7489FB00E9E221 = {
 			isa = PBXGroup;
 			children = (
+				FA2218F82F748A0400E9E221 /* index.html */,
+				FA2218F92F748A0B00E9E221 /* REAMDE.md */,
 			);
 			sourceTree = "<group>";
 		};
